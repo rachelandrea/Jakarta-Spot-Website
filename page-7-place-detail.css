@@ -1,0 +1,314 @@
+.text2 {
+  position: absolute;
+  top: 91px;
+  left: 792px;
+  color: var(--color-black);
+}
+.foto-tempat-icon {
+  position: absolute;
+  top: 169px;
+  left: 100px;
+  border-radius: var(--br-xl);
+  width: 600px;
+  height: 450px;
+  object-fit: cover;
+}
+.group-child27,
+.group-child28 {
+  border-radius: var(--br-3xs);
+  width: 85px;
+  object-fit: cover;
+}
+.group-child27 {
+  position: absolute;
+  top: 0;
+  left: calc(50% + 72.5px);
+  height: 85px;
+}
+.group-child28 {
+  left: calc(50% - 42.5px);
+}
+.group-child28,
+.group-child29,
+.rectangle-parent9 {
+  position: absolute;
+  top: 0;
+  height: 85px;
+}
+.group-child29 {
+  left: calc(50% - 157.5px);
+  border-radius: var(--br-3xs);
+  width: 85px;
+  object-fit: cover;
+}
+.rectangle-parent9 {
+  left: calc(38% - 157.25px);
+  width: 315px;
+}
+.vector-icon {
+  position: absolute;
+  top: 30px;
+  left: 340.7px;
+  width: 23.2px;
+  height: 24.1px;
+}
+.group-child30 {
+  left: -43px;
+  position: absolute;
+  top: 30px;
+  width: 23.2px;
+  height: 24.1px;
+}
+.group-parent9 {
+  position: absolute;
+  top: 514px;
+  left: calc(50% - 435px);
+  width: 421.9px;
+  height: 85px;
+}
+.moja-museum1 {
+  position: absolute;
+  top: 122px;
+  left: 135px;
+  font-size: var(--font-size-11xl);
+}
+.page-7-place-detail-child {
+  position: absolute;
+  top: 127px;
+  left: 90px;
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+}
+.text3 {
+  position: absolute;
+  top: 98px;
+  left: 741px;
+  color: var(--color-black);
+}
+.about-us6,
+.explore4,
+.home4 {
+  position: absolute;
+  top: 0;
+  left: 75.75%;
+  cursor: pointer;
+}
+.about-us6,
+.home4 {
+  left: 32.43%;
+}
+.home4 {
+  left: 0;
+}
+.explore-parent1,
+.navbar-child {
+  position: absolute;
+  height: 40.85%;
+  width: 52.96%;
+  top: 28.17%;
+  right: 28.86%;
+  bottom: 30.99%;
+  left: 18.18%;
+}
+.navbar-child {
+  height: 91.55%;
+  width: 9.38%;
+  top: 0;
+  right: 0;
+  bottom: 8.45%;
+  left: 90.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.navbar3 {
+  position: absolute;
+  top: 56px;
+  left: 519px;
+  width: 693px;
+  height: 71px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-aliceblue);
+}
+.jakartaspot9 {
+  position: absolute;
+  width: 109.64%;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.05em;
+  display: inline-block;
+  font-weight: 800;
+  background: linear-gradient(90deg, #e2f3fd, #ffe2a0);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.jakartaspot8 {
+  position: absolute;
+  top: 56px;
+  left: 135px;
+  width: 330px;
+  height: 61px;
+  font-size: var(--font-size-31xl);
+}
+.k9 {
+  font-size: var(--font-size-mini);
+}
+.k8 {
+  position: absolute;
+  top: 640px;
+  left: 105px;
+}
+.price-rp-125000-container,
+.we-are-a {
+  position: absolute;
+  top: 640px;
+  left: 398px;
+}
+.we-are-a {
+  top: 684px;
+  left: 100px;
+  font-weight: 500;
+  color: var(--color-aliceblue);
+  display: inline-block;
+  width: 600px;
+}
+.address {
+  font-family: var(--font-inter);
+}
+.address-komplek-gelora-bung-k {
+  margin-block-start: 0;
+  margin-block-end: 15px;
+}
+.operating-hours-1100-1930 {
+  margin: 0;
+}
+.address-komplek-gelora-container {
+  position: absolute;
+  top: 635px;
+  left: 794px;
+  font-size: var(--font-size-lg);
+  display: inline-block;
+  width: 428px;
+}
+.reviews {
+  position: absolute;
+  top: 700px;
+  left: 794px;
+}
+.group-child31 {
+  position: absolute;
+  border-radius: var(--br-xl);
+}
+
+.google-map {
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  border-radius: var(--br-xl);
+  height: 450px;
+  width: 580px;
+  top: 169px;
+  left: 760px;
+  position: relative;
+  overflow: hidden;
+  padding: 0;
+}
+
+/* .google-map iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+} */
+/* .google-map {
+  z-index: 3;
+  position: absolute;
+  height: 335px;
+  width: 428px;
+  padding: 0px;
+  border-width: 150px;
+  margin: 0px;
+  left: 791px;
+  top: 169px;
+  border-radius: var(--br-xl);
+  touch-action: pan-x pan-y;
+} */
+/* .google-map {
+  top: 169px;
+  left: 791px;
+  width: 428px;
+  height: 335px;
+  border-radius: var(--br-xl);
+  object-fit: cover;
+} */
+.group-child31 {
+  top: 0;
+  left: 0;
+  background-color: rgba(238, 238, 238, 0.93);
+  width: 381px;
+  height: 52.1px;
+}
+.harganya-okee1 {
+  position: absolute;
+  top: 28px;
+  left: 12px;
+  display: inline-block;
+  width: 104px;
+}
+.user21921271- {
+  position: absolute;
+  top: 5px;
+  left: 11.6px;
+  font-size: var(--font-size-lg);
+}
+.rectangle-parent10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 381px;
+  height: 52.1px;
+}
+.group-child32,
+.group-parent10 {
+  position: absolute;
+  top: 13px;
+  left: 240.6px;
+  width: 130px;
+  height: 25px;
+}
+.group-parent10 {
+  top: 734px;
+  left: 841.4px;
+  width: 381px;
+  height: 52.1px;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+}
+.woman-4140047-1-icon {
+  position: absolute;
+  top: 734px;
+  left: 794px;
+  width: 32.4px;
+  height: 35px;
+  object-fit: cover;
+}
+.page-7-place-detail-item {
+  position: absolute;
+  top: 169px;
+  left: 730px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 750px;
+  object-fit: contain;
+}
+.page-7-place-detail {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-darkslategray);
+  height: 837px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-navajowhite);
+  font-family: var(--font-inter);
+}

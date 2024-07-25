@@ -1,0 +1,371 @@
+.background-11 {
+  position: absolute;
+  top: 143px;
+  left: calc(50% - 566px);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  width: 1145px;
+  height: 700px;
+  mix-blend-mode: normal;
+}
+.icon,
+.page-9-profile-child {
+  position: absolute;
+  object-fit: cover;
+}
+.page-9-profile-child {
+  top: 351px;
+  left: 897px;
+  border-radius: 50%;
+  width: 250px;
+  height: 250px;
+}
+.icon {
+  top: 8px;
+  left: 0;
+  width: 45px;
+  height: 46.7px;
+}
+.agus-subagus {
+  position: absolute;
+  top: 0;
+  left: 143px;
+  font-size: var(--font-size-31xl);
+  display: inline-block;
+  width: 394px;
+  height: 61px;
+}
+.agusugusgmailcom,
+.central-jakarta {
+  left: 143px;
+  display: inline-block;
+  height: 36.1px;
+}
+.agusugusgmailcom {
+  position: absolute;
+  top: 86px;
+  width: 310px;
+}
+.central-jakarta {
+  top: 162px;
+  width: 218px;
+}
+.central-jakarta,
+.div,
+.icon1 {
+  position: absolute;
+}
+.icon1 {
+  top: 155px;
+  left: 5px;
+  width: 40px;
+  height: 49.3px;
+  object-fit: cover;
+}
+.div {
+  top: 238px;
+  left: 143px;
+  display: inline-block;
+  width: 191px;
+  height: 36.1px;
+}
+.icon2 {
+  top: 226px;
+  left: 5px;
+  width: 42px;
+  height: 41.1px;
+  object-fit: cover;
+}
+.icon2,
+.icon3,
+.parent {
+  position: absolute;
+}
+.icon3 {
+  top: 86px;
+  left: 0;
+  width: 45px;
+  height: 38.1px;
+  object-fit: cover;
+}
+.parent {
+  top: 284px;
+  left: 202px;
+  width: 537px;
+  height: 274.1px;
+  font-size: var(--font-size-11xl);
+}
+.profile,
+.profile-wrapper {
+  position: absolute;
+  width: 204px;
+  height: 68px;
+}
+.profile {
+  top: 0;
+  left: 0;
+}
+.profile-wrapper {
+  top: 258px;
+  left: 920px;
+  /* box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset; */
+  font-size: var(--font-size-45xl);
+}
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    rgba(48, 79, 108, 0.5),
+    rgba(255, 226, 160, 0.5)
+  );
+  width: 608px;
+  height: 157px;
+}
+.my-reviews {
+  position: absolute;
+  top: 11.9px;
+  left: 78px;
+  display: inline-block;
+  width: 143.3px;
+  height: 34.1px;
+}
+.group-child5,
+.icon4 {
+  position: absolute;
+  object-fit: cover;
+}
+.group-child5 {
+  top: 53.7px;
+  left: 76px;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+}
+.icon4 {
+  top: 4px;
+  left: 7px;
+  width: 62px;
+  height: 57px;
+}
+.group-child6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  width: 443px;
+  height: 61px;
+}
+.harganya-okee,
+.moja-museum {
+  position: absolute;
+  top: 35px;
+  left: 34px;
+}
+.moja-museum {
+  top: 6px;
+  left: 14px;
+  font-size: var(--font-size-xl);
+}
+.rectangle-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 443px;
+  height: 61px;
+}
+.group-icon,
+.group-parent {
+  position: absolute;
+  top: 12px;
+  left: 259px;
+  width: 163px;
+  height: 32px;
+}
+.group-parent {
+  top: 69px;
+  left: 145px;
+  width: 443px;
+  height: 61px;
+  font-size: var(--font-size-mini);
+}
+.rectangle-parent {
+  position: absolute;
+  top: 621px;
+  left: 186px;
+  width: 608px;
+  height: 157px;
+  mix-blend-mode: normal;
+  color: var(--color-black);
+}
+.page-9-profile-item {
+  position: absolute;
+  top: 180px;
+  left: 170px;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+
+}
+.jakartaspot5 {
+  position: absolute;
+  width: 109.64%;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.05em;
+  display: inline-block;
+  font-weight: 800;
+  background: linear-gradient(90deg, #e2f3fd, #ffe2a0);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.jakartaspot4 {
+  position: absolute;
+  top: 56px;
+  left: 135px;
+  width: 330px;
+  height: 61px;
+  font-size: var(--font-size-31xl);
+}
+.page-9-profile-inner {
+  position: absolute;
+  top: 269px;
+  left: 186px;
+  border-radius: 50px;
+  background: linear-gradient(
+    173.48deg,
+    rgba(255, 226, 160, 0.5) 10.29%,
+    rgba(48, 79, 108, 0.5)
+  );
+  width: 85px;
+  height: 316px;
+  mix-blend-mode: normal;
+}
+.about-us4,
+.explore2,
+.home2 {
+  position: absolute;
+  top: 0;
+  left: 75.75%;
+  cursor: pointer;
+}
+.about-us4,
+.home2 {
+  left: 32.43%;
+}
+.home2 {
+  left: 0;
+}
+.explore-group {
+  position: absolute;
+  height: 40.85%;
+  width: 52.96%;
+  top: 28.17%;
+  right: 28.86%;
+  bottom: 30.99%;
+  left: 18.18%;
+}
+.group-child7,
+.material-symbolsbookmark-icon1 {
+  position: absolute;
+  height: 98.59%;
+  width: 40%;
+  top: 1.41%;
+  right: 60%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-child7 {
+  height: 91.55%;
+  width: 43.33%;
+  top: 0;
+  right: 0;
+  bottom: 8.45%;
+  left: 56.67%;
+  border-radius: 50%;
+  object-fit: cover;
+  cursor: pointer;
+}
+.material-symbolsbookmark-group {
+  position: absolute;
+  height: 100%;
+  width: 21.65%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 78.35%;
+}
+.navbar1 {
+  position: absolute;
+  top: 56px;
+  left: 519px;
+  width: 693px;
+  height: 71px;
+  color: var(--color-aliceblue);
+}
+.tombol-filter-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-navajowhite);
+  border: 0.5px solid var(--color-darkslategray);
+  box-sizing: border-box;
+}
+.category {
+  position: absolute;
+  width: 82.18%;
+  top: 17.11%;
+  left: 4.6%;
+  display: inline-block;
+}
+.tombol-filter {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.log-out {
+  position: absolute;
+  height: 86.84%;
+  width: 79.84%;
+  top: 7.89%;
+  left: 10.48%;
+  font-size: var(--font-size-6xl);
+  /* display: inline-block; */
+  color: var(--color-crimson);
+}
+.tombol-log-out {
+  position: absolute;
+  top: 774px;
+  left: 1075px;
+  width: 124px;
+  height: 38px;
+  font-size: var(--font-size-xl);
+}
+.page-9-profile {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-darkslategray);
+  height: 832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-inter);
+}

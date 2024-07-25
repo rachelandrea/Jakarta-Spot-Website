@@ -1,0 +1,500 @@
+.backgroundchild,
+.citysilhouette {
+  position: absolute;
+  border-radius: var(--br-xl);
+}
+
+.backgroundchild {
+  top: 153px;
+  left: calc(50% - 574px);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-aliceblue);
+  width: 1145px;
+  height: 1730px;
+}
+
+/* Title */
+
+.jakartaspot {
+  position: absolute;
+  width: 109.64%;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.05em;
+  display: inline-block;
+  font-weight: 800;
+  background: linear-gradient(90deg, #e2f3fd, #ffe2a0);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.title {
+  position: absolute;
+  top: 56px;
+  left: 135px;
+  width: 330px;
+  height: 61px;
+  font-size: var(--font-size-31xl);
+}
+
+/* Navigation Bar */
+.navbar {
+  position: absolute;
+  top: 56px;
+  left: 519px;
+  width: 693px;
+  height: 71px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-aliceblue);
+}
+
+.navbaroption {
+  position: absolute;
+  height: 40.85%;
+  width: 52.96%;
+  top: 28.17%;
+  right: 28.86%;
+  bottom: 30.99%;
+  left: 18.18%;
+}
+
+.home,
+.about-us,
+.explore {
+  position: absolute;
+  top: 0;
+  left: 75.75%;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.about-us,
+.home {
+  left: 32.43%;
+}
+
+.home {
+  left: 0;
+}
+
+.bookmarkandprofile {
+  position: absolute;
+  height: 100%;
+  width: 21.65%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 78.35%;
+}
+
+.bookmark,
+.profile {
+  position: absolute;
+  height: 98.59%;
+  width: 40%;
+  top: 1.41%;
+  right: 60%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+
+.profile {
+  height: 91.55%;
+  width: 43.33%;
+  top: 0;
+  right: 0;
+  bottom: 8.45%;
+  left: 56.67%;
+  border-radius: 50%;
+  object-fit: cover;
+  cursor: pointer;
+}
+
+/* Inner Main */
+.citysilhouette {
+  top: 182px;
+  left: calc(50% - 489px);
+  width: 977px;
+  height: 243px;
+  object-fit: cover;
+  mix-blend-mode: darken;
+}
+.your-window-to {
+  position: absolute;
+  top: 346px;
+  left: calc(50% - 338px);
+  font-size: var(--font-size-31xl);
+  font-family: var(--font-vollkorn-sc);
+  color: var(--color-whitesmoke);
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.innersearchbox {
+  position: absolute;
+  top: 440px;
+  left: calc(50% - 500px);
+  border-radius: var(--br-xl);
+  background-color: var(--color-navajowhite);
+  width: 1000px;
+  height: 125px;
+}
+
+.searchOuter {
+  position: absolute;
+  top: 465px;
+  left: 215px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 500px;
+  height: 75px;
+}
+.or-try,
+.search,
+.text6 {
+  position: absolute;
+  top: 481px;
+  left: 230px;
+  font-size: var(--font-size-16xl);
+  color: var(--color-silver);
+}
+.or-try,
+.text6 {
+  top: 91px;
+  left: 792px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+}
+.or-try {
+  top: 481px;
+  left: 730px;
+  font-size: var(--font-size-17xl);
+}
+
+.ortryRestaurant {
+  position: absolute;
+  top: 460px;
+  left: 830px;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.ortryMall,
+.ortryPark {
+  position: absolute;
+  top: 460px;
+  left: 940px;
+  width: 80px;
+  height: 78.4px;
+  object-fit: cover;
+}
+.ortryPark {
+  top: 468px;
+  left: 1040px;
+  width: 70px;
+  height: 69.2px;
+}
+
+/* Place List */
+.jakartaaquariumimage,
+.dufanimage,
+.monasimage {
+  width: 275px;
+  border-radius: var(--br-xl);
+  height: 250px;
+  object-fit: cover;
+}
+.jakartaaquariumimage {
+  position: absolute;
+  top: 603px;
+  left: 190px;
+}
+.monasimage {
+  position: absolute;
+  top: 603px;
+  left: calc(50% - 138px);
+}
+.dufanimage {
+  position: absolute;
+  top: 603px;
+  left: calc(50% + 208px);
+}
+
+.hutankotaimage,
+.kwangyaimage,
+.bataviapikimage {
+  position: absolute;
+  top: 925px;
+  left: calc(50% - 500px);
+  border-radius: var(--br-xl);
+  width: 275px;
+  height: 250px;
+  object-fit: cover;
+}
+.kwangyaimage,
+.bataviapikimage {
+  left: calc(50% - 138px);
+}
+.bataviapikimage {
+  left: calc(50% + 208px);
+}
+
+.vilogelatoimage,
+.bytheseaimage,
+.pantaipasirputihimage {
+  position: absolute;
+  top: 1247px;
+  left: calc(50% - 500px);
+  border-radius: var(--br-xl);
+  width: 275px;
+  height: 250px;
+  object-fit: cover;
+}
+.bytheseaimage,
+.pantaipasirputihimage {
+  left: calc(50% - 138px);
+}
+.pantaipasirputihimage {
+  left: calc(50% + 206px);
+}
+
+.mblocimage,
+.museummacanimage,
+.motionstudioasiaimage {
+  position: absolute;
+  top: 1569px;
+  left: calc(50% - 500px);
+  border-radius: var(--br-xl);
+  width: 275px;
+  height: 250px;
+  object-fit: cover;
+}
+.museummacanimage,
+.motionstudioasiaimage {
+  left: calc(50% - 138px);
+}
+.motionstudioasiaimage {
+  left: calc(50% + 206px);
+}
+
+/* Love Button */
+.buttoncolor {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-navajowhite);
+  width: 35px;
+  height: 35px;
+}
+.love-8647296-3-icon12 {
+  position: absolute;
+  top: 7.7px;
+  left: 7px;
+  width: 20.3px;
+  height: 20.3px;
+  object-fit: cover;
+}
+
+.rectangle-parent15 {
+  position: absolute;
+  top: 603px;
+  left: 140px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+
+.lovebutton1,
+.lovebutton2,
+.lovebutton3 {
+  position: absolute;
+  top: 613px;
+  width: 35px;
+  height: 35px;
+}
+
+.lovebutton1{
+  left:400px;
+}
+
+.lovebutton2,
+.lovebutton3 {
+  left: 760px;
+}
+
+.lovebutton3 {
+  left: 1110px;
+}
+
+.lovebutton7,
+.lovebutton8,
+.lovebutton9 {
+  position: absolute;
+  top: 1257px;
+  width: 35px;
+  height: 35px;
+}
+
+.lovebutton7{
+  left:400px;
+}
+
+.lovebutton8,
+.lovebutton9 {
+  left: 760px;
+}
+.lovebutton9 {
+  left: 1110px;
+}
+
+.lovebutton10,
+.lovebutton11,
+.lovebutton12 {
+  position: absolute;
+  top: 1579px;
+  width: 35px;
+  height: 35px;
+}
+
+.lovebutton10{
+  left:400px;
+}
+
+.lovebutton11,
+.lovebutton12 {
+  left: 760px;
+}
+.lovebutton12 {
+  left: 1110px;
+}
+
+.lovebutton4,
+.lovebutton5,
+.lovebutton6 {
+  position: absolute;
+  top: 935px;
+  width: 35px;
+  height: 35px;
+}
+
+.lovebutton4{
+  left:400px;
+}
+
+.lovebutton5,
+.lovebutton6 {
+  left: 760px;
+}
+.lovebutton6 {
+  left: 1110px;
+}
+
+/* Place Description */
+.jakarta-aquarium-location-container1 {
+  position: absolute;
+  top: 863px;
+  left: 197px;
+}
+
+.monas-jakarta-location-container2 {
+  position: absolute;
+  top: 863px;
+  left: 556px;
+}
+
+.dunia-fantasi-location-container1 {
+  position: absolute;
+  top: 863px;
+  left: 903px;
+}
+
+.hutan-kota-location-container1 {
+  position: absolute;
+  top: 1184px;
+  left: 197px;
+}
+
+.kwangya-jakarta-location-container1 {
+  position: absolute;
+  top: 1184px;
+  left: 556px;
+}
+
+.batavia-pik-location-container1 {
+  position: absolute;
+  top: 1184px;
+  left: 903px;
+}
+
+.vilo-gelato-location-container1 {
+  position: absolute;
+  top: 1504px;
+  left: 197px;
+}
+
+.by-the-sea-container1 {
+  position: absolute;
+  top: 1504px;
+  left: 556px;
+}
+
+.pantai-pasir-putih-container1 {
+  position: absolute;
+  top: 1504px;
+  left: 903px;
+}
+
+.m-bloc-space-location-container1 {
+  position: absolute;
+  top: 1824px;
+  left: 197px;
+}
+
+.museum-macan-location-container1 {
+  position: absolute;
+  top: 1824px;
+  left: 556px;
+}
+
+.motion-studio-asia-container1 {
+  position: absolute;
+  top: 1824px;
+  left: 903px;
+}
+
+.placetext {
+  margin: 0;
+  color: var(--color-darkslategray);
+  font-size: var(--font-size-lg);
+}
+
+.page-2-home-page-logged-in {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #304f6c, #e2f3fd);
+  height: 832px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-darkslategray);
+  font-family: var(--font-inter);
+}
+
+.page-2home-page{
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #304f6c, #e2f3fd);
+  height: 832px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-lightsalmon);
+  font-family: var(--font-inter);
+}

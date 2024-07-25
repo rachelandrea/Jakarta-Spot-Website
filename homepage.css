@@ -1,0 +1,457 @@
+.background-1-icon,
+.page-1-home-page-child {
+  position: absolute;
+  top: 153px;
+  border-radius: var(--br-xl) var(--br-xl) 0 0;
+  width: 1145px;
+}
+.background-1-icon {
+  left: calc(50% - 573px);
+  height: 1697px;
+  object-fit: cover;
+}
+.page-1-home-page-child {
+  left: 156px;
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 1698px;
+}
+.monas-jakarta {
+  margin: 0;
+}
+.location-jakarta {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.monas-jakarta-location-container {
+  position: absolute;
+  top: 662px;
+  left: 512px;
+}
+.page-1-home-page-item {
+  position: absolute;
+  top: 440px;
+  left: calc(50% - 500px);
+  border-radius: var(--br-xl);
+  background-color: var(--color-navajowhite);
+  width: 1000px;
+  height: 125px;
+}
+.page-1-home-page-inner {
+  position: absolute;
+  top: 460px;
+  left: 887px;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.search {
+  position: absolute;
+  top: 465px;
+  left: 250px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 500px;
+  height: 75px;
+}
+.search1 {
+  position: absolute;
+  top: 481px;
+  left: 260px;
+  font-size: var(--font-size-16xl);
+  color: var(--color-silver);
+}
+.kotak-sign-in {
+  position: absolute;
+  top: 66px;
+  left: 1095px;
+  border-radius: var(--br-11xl);
+  width: 117px;
+  height: 42px;
+}
+.sign-up,
+.text {
+  position: absolute;
+  top: 75px;
+  left: 806px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+}
+.sign-up {
+  left: 1116px;
+}
+.kotak-sign-in1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  width: 117px;
+  height: 42px;
+  mix-blend-mode: normal;
+}
+.about-us {
+  position: absolute;
+  top: 9px;
+  left: 29px;
+}
+.kotak-sign-in-parent,
+.or-try {
+  position: absolute;
+  color: var(--color-black);
+}
+.kotak-sign-in-parent {
+  top: 66px;
+  left: 956px;
+  width: 117px;
+  height: 42px;
+  cursor: pointer;
+  font-size: var(--font-size-xl);
+}
+.or-try {
+  top: 481px;
+  left: 765px;
+  font-size: var(--font-size-17xl);
+}
+.page-1-home-page-child1,
+.page-1-home-page-child2,
+.rectangle-icon {
+  position: absolute;
+  top: 603px;
+  left: calc(50% - 500px);
+  border-radius: var(--br-xl);
+  width: 275px;
+  height: 250px;
+  object-fit: cover;
+}
+.page-1-home-page-child1,
+.page-1-home-page-child2 {
+  left: calc(50% - 138px);
+}
+.page-1-home-page-child2 {
+  left: calc(50% + 225px);
+}
+.about-us1,
+.explore,
+.home {
+  position: absolute;
+  top: 75px;
+  left: 658px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.about-us1,
+.explore {
+  left: 738px;
+}
+.explore {
+  left: 851px;
+}
+.park-6922815-1-icon,
+.shopping-center-5900360-1-icon {
+  position: absolute;
+  top: 460px;
+  left: 990px;
+  width: 80px;
+  height: 78.4px;
+  object-fit: cover;
+}
+.park-6922815-1-icon {
+  top: 468px;
+  left: 1100px;
+  width: 70px;
+  height: 69.2px;
+}
+.jakartaspot1,
+.your-window-to {
+  position: absolute;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.your-window-to {
+  top: 280px;
+  left: calc(50% - 338px);
+  font-size: var(--font-size-31xl);
+  font-family: var(--font-vollkorn-sc);
+  color: var(--color-white);
+  -webkit-text-stroke: 1px #e2f3fd;
+}
+.jakartaspot1 {
+  width: 109.64%;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.05em;
+  display: inline-block;
+  font-weight: 800;
+  background: linear-gradient(90deg, #e2f3fd, #ffe2a0);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.jakartaspot {
+  position: absolute;
+  top: 56px;
+  left: 162px;
+  width: 330px;
+  height: 61px;
+  font-size: var(--font-size-31xl);
+}
+.page-1-home-page-child3 {
+  position: absolute;
+  top: 1228px;
+  left: calc(50% - 500px);
+  border-radius: var(--br-xl);
+  width: 275px;
+  height: 250px;
+  object-fit: cover;
+}
+.page-1-home-page-child4,
+.page-1-home-page-child5,
+.page-1-home-page-child6,
+.page-1-home-page-child7 {
+  position: absolute;
+  top: 1228px;
+  left: calc(50% - 140px);
+  border-radius: var(--br-xl);
+  width: 275px;
+  height: 250px;
+  object-fit: cover;
+}
+.page-1-home-page-child5,
+.page-1-home-page-child6,
+.page-1-home-page-child7 {
+  left: calc(50% + 223px);
+}
+.page-1-home-page-child6,
+.page-1-home-page-child7 {
+  left: calc(50% - 138px);
+}
+.page-1-home-page-child7 {
+  left: calc(50% + 225px);
+}
+.frame-child {
+  width: 35px;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-navajowhite);
+  height: 35px;
+  z-index: 0;
+}
+.love-8647296-3-icon {
+  width: 20.3px;
+  position: absolute;
+  margin: 0 !important;
+  top: 7.7px;
+  left: 7px;
+  height: 20.3px;
+  object-fit: cover;
+  z-index: 1;
+}
+.ellipse-parent {
+  position: absolute;
+  top: 1238px;
+  left: 450px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-navajowhite);
+  width: 35px;
+  height: 35px;
+}
+.love-8647296-3-icon1 {
+  position: absolute;
+  top: 7.7px;
+  left: 7px;
+  width: 20.3px;
+  height: 20.3px;
+  object-fit: cover;
+}
+.ellipse-container,
+.ellipse-group {
+  position: absolute;
+  top: 1238px;
+  left: 812px;
+  width: 35px;
+  height: 35px;
+}
+.ellipse-container {
+  left: 1180px;
+}
+.page-1-home-page-child8 {
+  position: absolute;
+  top: 1550px;
+  left: calc(50% - 500px);
+  border-radius: var(--br-xl);
+  width: 275px;
+  height: 250px;
+  object-fit: cover;
+}
+.group-div {
+  position: absolute;
+  top: 1560px;
+  left: 450px;
+  width: 35px;
+  height: 35px;
+}
+.page-1-home-page-child10,
+.page-1-home-page-child11,
+.page-1-home-page-child12 {
+  position: absolute;
+  top: 906px;
+  left: calc(50% - 500px);
+  border-radius: var(--br-xl);
+  width: 275px;
+  height: 250px;
+  object-fit: cover;
+}
+.page-1-home-page-child11,
+.page-1-home-page-child12 {
+  left: calc(50% - 138px);
+}
+.page-1-home-page-child12 {
+  left: calc(50% + 225px);
+}
+.ellipse-parent1,
+.frame-div {
+  position: absolute;
+  top: 916px;
+  left: 450px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.ellipse-parent1 {
+  top: 613px;
+}
+.ellipse-parent2 {
+  position: absolute;
+  top: 916px;
+  left: 812px;
+  width: 35px;
+  height: 35px;
+}
+.ellipse-parent3 {
+  position: absolute;
+  top: 916px;
+  left: 1180px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.page-1-home-page-child13,
+.page-1-home-page-child14 {
+  position: absolute;
+  top: 1550px;
+  left: calc(50% - 140px);
+  border-radius: var(--br-xl);
+  width: 275px;
+  height: 250px;
+  object-fit: cover;
+}
+.page-1-home-page-child14 {
+  left: calc(50% + 225px);
+}
+.ellipse-parent4,
+.ellipse-parent5,
+.ellipse-parent6,
+.ellipse-parent7 {
+  position: absolute;
+  top: 1560px;
+  left: 812px;
+  width: 35px;
+  height: 35px;
+}
+.ellipse-parent5,
+.ellipse-parent6,
+.ellipse-parent7 {
+  left: 1180px;
+}
+.ellipse-parent6,
+.ellipse-parent7 {
+  top: 613px;
+  left: 812px;
+}
+.ellipse-parent7 {
+  left: 1180px;
+}
+.dunia-fantasi-location-container {
+  position: absolute;
+  top: 859px;
+  left: 960px;
+}
+.jakarta-aquarium-location-container {
+  position: absolute;
+  top: 859px;
+  left: 234px;
+}
+.hutan-kota-location-container {
+  position: absolute;
+  top: 1161px;
+  left: 234px;
+}
+.vilo-gelato-location-container {
+  position: absolute;
+  top: 1484px;
+  left: 234px;
+}
+.m-bloc-space-location-container {
+  position: absolute;
+  top: 1804px;
+  left: 234px;
+}
+.museum-macan-location-container {
+  position: absolute;
+  top: 1804px;
+  left: 598px;
+}
+.motion-studio-asia-container {
+  position: absolute;
+  top: 1804px;
+  left: 960px;
+}
+.by-the-sea-container {
+  position: absolute;
+  top: 1484px;
+  left: 596px;
+}
+.pantai-pasir-putih-container {
+  position: absolute;
+  top: 1484px;
+  left: 960px;
+}
+.kwangya-jakarta-location-container {
+  position: absolute;
+  top: 1161px;
+  left: 596px;
+}
+.batavia-pik-location-container {
+  position: absolute;
+  top: 1161px;
+  left: 960px;
+}
+.monas-jakarta-location-container1 {
+  position: absolute;
+  top: 859px;
+  left: 596px;
+}
+.page-1-home-page {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #304f6c, #e2f3fd);
+  height: 832px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-navajowhite);
+  font-family: var(--font-inter);
+}

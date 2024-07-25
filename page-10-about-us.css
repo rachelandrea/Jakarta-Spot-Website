@@ -1,0 +1,179 @@
+.image-4-icon {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl) var(--br-xl) 0 0;
+  object-fit: cover;
+}
+.background-1,
+.image-4-icon,
+.image-4-parent {
+  position: absolute;
+  width: 1145px;
+  height: 1000px;
+}
+.background-1 {
+  top: 0;
+  left: calc(50% - 572.5px);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-xl) var(--br-xl) 0 0;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.5), #fff);
+}
+.image-4-parent {
+  top: 153px;
+  left: 67px;
+}
+.text1 {
+  position: absolute;
+  top: 91px;
+  left: 792px;
+  font-size: var(--font-size-xl);
+}
+.jakartaspot3 {
+  position: absolute;
+  width: 109.64%;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.05em;
+  display: inline-block;
+  font-weight: 800;
+  background: linear-gradient(90deg, #e2f3fd, #ffe2a0);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.jakartaspot2 {
+  position: absolute;
+  top: 56px;
+  left: 67px;
+  width: 330px;
+  height: 61px;
+  font-size: var(--font-size-31xl);
+}
+.about-us2,
+.explore1,
+.home1 {
+  position: absolute;
+  top: 0;
+  left: 75.75%;
+  cursor: pointer;
+}
+.about-us2,
+.home1 {
+  left: 32.43%;
+}
+.home1 {
+  left: 0;
+}
+.explore-parent {
+  position: absolute;
+  height: 40.85%;
+  width: 52.96%;
+  top: 28.17%;
+  right: 28.86%;
+  bottom: 30.99%;
+  left: 18.18%;
+}
+.ellipse-icon,
+.material-symbolsbookmark-icon {
+  position: absolute;
+  height: 98.59%;
+  width: 40%;
+  top: 1.41%;
+  right: 60%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ellipse-icon {
+  height: 91.55%;
+  width: 43.33%;
+  top: 0;
+  right: 0;
+  bottom: 8.45%;
+  left: 56.67%;
+  border-radius: 50%;
+  object-fit: cover;
+  cursor: pointer;
+}
+.material-symbolsbookmark-parent {
+  position: absolute;
+  height: 100%;
+  width: 21.65%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 78.35%;
+}
+.navbar {
+  position: absolute;
+  top: 56px;
+  left: 519px;
+  width: 693px;
+  height: 71px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-aliceblue);
+}
+.about-us3 {
+  margin: 0;
+  font-size: var(--font-size-45xl);
+}
+.blank-line {
+  margin: 0;
+}
+.welcome-to-jakartaspot {
+  margin: 0;
+  font-size: var(--font-size-21xl);
+  font-weight: 600;
+}
+
+.aboutusdesc {
+  margin: 0;
+  font-weight: 500;
+}
+
+.about-us-welcome-container {
+  position: absolute;
+  top: 203px;
+  left: calc(50% - 459px);
+  display: inline-block;
+  width: 918px;
+  font-size: var(--font-size-xl);
+}
+
+.blank-line2 {
+  margin: 0;
+  font-size: var(--font-size-xl);
+}
+
+.alignrighttext{
+  margin: 0;
+  text-align: right;
+  font-size: var(--font-size-21xl);
+  font-weight: 600;
+}
+
+.aboutusdescright{
+  margin: 0;
+  text-align: right;
+  font-weight: 500;
+}
+
+.thank-you-for {
+  margin: 0;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+}
+
+.page-10-about-us {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #304f6c, #e2f3fd);
+  height: 832px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

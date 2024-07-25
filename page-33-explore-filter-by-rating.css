@@ -1,0 +1,366 @@
+.background-14,
+.page-33-explore-filter-by-child {
+  position: absolute;
+  top: 153px;
+  left: calc(50% - 573px);
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  width: 1145px;
+  height: 700px;
+}
+.page-33-explore-filter-by-child {
+  top: 181px;
+  left: calc(50% - 543px);
+  background-color: var(--color-navajowhite);
+  width: 250px;
+  height: 550px;
+  mix-blend-mode: normal;
+}
+.tombol-filter-child2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  border: 0.5px solid var(--color-darkslategray);
+  box-sizing: border-box;
+}
+.category4 {
+  position: absolute;
+  width: 82.13%;
+  top: 17.14%;
+  left: 4.63%;
+  display: inline-block;
+}
+.tombol-filter4,
+.tombol-filter5 {
+  left: 114px;
+  width: 216px;
+  height: 35px;
+}
+.tombol-filter4 {
+  position: absolute;
+  top: 277px;
+  color: var(--color-darkslategray);
+}
+.tombol-filter5 {
+  top: 512px;
+}
+.filter-by1,
+.tombol-filter5,
+.tombol-filter6 {
+  position: absolute;
+  color: var(--color-darkslategray);
+}
+.filter-by1 {
+  top: 199px;
+  left: 124px;
+  display: inline-block;
+  width: 87px;
+  height: 23px;
+}
+.tombol-filter6 {
+  top: 232px;
+  left: 114px;
+  width: 216px;
+  height: 35px;
+}
+.group-child42 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-darkslategray);
+  width: 211px;
+  height: 180px;
+}
+.rating {
+  margin-block-start: 0;
+  margin-block-end: 5px;
+}
+.p4 {
+  margin: 0;
+}
+.rating-container {
+  position: absolute;
+  top: 6px;
+  left: 10px;
+  display: inline-block;
+  width: 191px;
+  height: 168px;
+}
+.rectangle-parent12 {
+  position: absolute;
+  top: 322px;
+  left: 114px;
+  width: 211px;
+  height: 180px;
+  color: var(--color-navajowhite);
+}
+.jakartaspot13 {
+  position: absolute;
+  width: 109.64%;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.05em;
+  display: inline-block;
+  font-weight: 800;
+  background: linear-gradient(90deg, #e2f3fd, #ffe2a0);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.jakartaspot12 {
+  position: absolute;
+  top: 56px;
+  left: 67px;
+  width: 330px;
+  height: 61px;
+  font-size: var(--font-size-31xl);
+}
+.about-us8,
+.explore6,
+.home6 {
+  position: absolute;
+  top: 0;
+  left: 75.75%;
+  cursor: pointer;
+}
+.about-us8,
+.home6 {
+  left: 32.43%;
+}
+.home6 {
+  left: 0;
+}
+.explore-parent3 {
+  position: absolute;
+  height: 40.85%;
+  width: 52.96%;
+  top: 28.17%;
+  right: 28.86%;
+  bottom: 30.99%;
+  left: 18.18%;
+}
+.group-child43,
+.material-symbolsbookmark-icon4 {
+  position: absolute;
+  height: 98.59%;
+  width: 40%;
+  top: 1.41%;
+  right: 60%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-child43 {
+  height: 91.55%;
+  width: 43.33%;
+  top: 0;
+  right: 0;
+  bottom: 8.45%;
+  left: 56.67%;
+  border-radius: 50%;
+  object-fit: cover;
+  cursor: pointer;
+}
+.material-symbolsbookmark-parent2 {
+  position: absolute;
+  height: 100%;
+  width: 21.65%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 78.35%;
+}
+.navbar5 {
+  position: absolute;
+  top: 56px;
+  left: 519px;
+  width: 693px;
+  height: 71px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-aliceblue);
+}
+.image-2-icon6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 250px;
+  height: 251px;
+  object-fit: cover;
+}
+.group-child44 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-navajowhite);
+  width: 35px;
+  height: 35px;
+}
+.love-8647296-5-icon6 {
+  position: absolute;
+  top: 8.4px;
+  left: 7.7px;
+  width: 20.3px;
+  height: 20.3px;
+  object-fit: cover;
+}
+.ellipse-parent14 {
+  position: absolute;
+  top: 10px;
+  left: 205px;
+  width: 35px;
+  height: 35px;
+}
+.k23 {
+  font-size: var(--font-size-mini);
+}
+.k22,
+.taman-literasi-blok1 {
+  position: absolute;
+  top: 280px;
+  left: 10px;
+  display: inline-block;
+  width: 195px;
+  height: 34px;
+}
+.taman-literasi-blok1 {
+  top: 261px;
+  left: 9px;
+  color: var(--color-darkslategray);
+  width: 221px;
+  height: 41px;
+}
+.image-2-parent4 {
+  position: absolute;
+  top: 515px;
+  left: 932px;
+  width: 250px;
+  height: 314px;
+}
+.k24,
+.taman-hutan-kota1 {
+  position: absolute;
+  top: 280px;
+  left: 12px;
+  display: inline-block;
+  width: 195px;
+  height: 34px;
+}
+.taman-hutan-kota1 {
+  top: 261px;
+  font-size: var(--font-size-lgi);
+  color: var(--color-darkslategray);
+  width: 221px;
+  height: 41px;
+}
+.image-2-parent5 {
+  position: absolute;
+  top: 515px;
+  left: 657px;
+  width: 250px;
+  height: 314px;
+}
+.grand-indonesia1,
+.k26 {
+  position: absolute;
+  top: 278px;
+  left: 10px;
+  display: inline-block;
+  width: 195px;
+  height: 34px;
+}
+.grand-indonesia1 {
+  top: 256px;
+  color: var(--color-darkslategray);
+  width: 221px;
+  height: 41px;
+}
+.image-2-parent6 {
+  position: absolute;
+  top: 515px;
+  left: 382px;
+  width: 250px;
+  height: 312px;
+}
+.group-child47 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 125px);
+  border-radius: var(--br-xl);
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+}
+.dunia-fantasi3,
+.k28 {
+  position: absolute;
+  top: 277px;
+  left: 12px;
+  display: inline-block;
+  width: 195px;
+  height: 34px;
+}
+.dunia-fantasi3 {
+  top: 256px;
+  color: var(--color-darkslategray);
+  width: 221px;
+  height: 41px;
+}
+.image-2-parent7,
+.k30 {
+  position: absolute;
+  top: 181px;
+  left: 932px;
+  width: 250px;
+  height: 311px;
+}
+.k30 {
+  top: 280px;
+  left: 9px;
+  display: inline-block;
+  width: 195px;
+  height: 34px;
+}
+.image-2-parent8 {
+  position: absolute;
+  top: 181px;
+  left: 657px;
+  width: 250px;
+  height: 314px;
+  cursor: pointer;
+}
+.ellipse-parent19,
+.image-2-parent9 {
+  position: absolute;
+  top: 9px;
+  left: 205px;
+  width: 35px;
+  height: 35px;
+}
+.image-2-parent9 {
+  top: 181px;
+  left: 382px;
+  width: 250px;
+  height: 311px;
+}
+.page-33-explore-filter-by {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-darkslategray);
+  height: 832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-lightsalmon);
+  font-family: var(--font-inter);
+}

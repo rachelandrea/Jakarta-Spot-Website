@@ -1,0 +1,42 @@
+.kotak-sign-in3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.log-in1 {
+  position: absolute;
+  top: 21.43%;
+  left: 24.79%;
+}
+.property-1group-331,
+.property-1group-341 {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 117px;
+  height: 42px;
+}
+.property-1group-341 {
+  top: 62px;
+}
+.tombol-log-in1 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  height: 124px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-navajowhite-100);
+  font-family: var(--font-inter);
+}

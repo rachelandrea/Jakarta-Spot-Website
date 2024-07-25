@@ -1,0 +1,370 @@
+.background-16,
+.page-31-explore-filter-by-child {
+  position: absolute;
+  top: 153px;
+  left: calc(50% - 573px);
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  width: 1145px;
+  height: 700px;
+}
+.page-31-explore-filter-by-child {
+  top: 181px;
+  left: calc(50% - 543px);
+  background-color: var(--color-navajowhite);
+  width: 250px;
+  height: 550px;
+  mix-blend-mode: normal;
+}
+.filter-by3 {
+  position: absolute;
+  top: 199px;
+  left: 124px;
+  display: inline-block;
+  color: var(--color-darkslategray);
+  width: 87px;
+  height: 23px;
+}
+.group-child60 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-darkslategray);
+  width: 211px;
+  height: 195px;
+}
+.category10 {
+  font-size: var(--font-size-xl);
+}
+.category10,
+.restaurant {
+  margin-block-start: 0;
+  margin-block-end: 5px;
+}
+.cafes {
+  margin: 0;
+}
+.category-restaurant-tourist-container {
+  position: absolute;
+  top: 6px;
+  left: 10px;
+  display: inline-block;
+  width: 191px;
+  height: 183px;
+}
+.rectangle-parent14 {
+  position: absolute;
+  top: 232px;
+  left: 114px;
+  width: 211px;
+  height: 195px;
+  font-size: var(--font-size-mini);
+  color: var(--color-navajowhite);
+}
+.component-2-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  border: 0.5px solid var(--color-darkslategray);
+  box-sizing: border-box;
+}
+.category11 {
+  position: absolute;
+  width: 82.13%;
+  top: 17.14%;
+  left: 4.63%;
+  display: inline-block;
+}
+.component-2,
+.component-3,
+.tombol-filter10 {
+  position: absolute;
+  top: 437px;
+  left: 114px;
+  width: 216px;
+  height: 35px;
+  color: var(--color-darkslategray);
+}
+.component-3,
+.tombol-filter10 {
+  top: 482px;
+}
+.tombol-filter10 {
+  top: 527px;
+}
+.text5 {
+  position: absolute;
+  top: 91px;
+  left: 787px;
+  color: var(--color-black);
+}
+.jakartaspot17 {
+  position: absolute;
+  width: 109.64%;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.05em;
+  display: inline-block;
+  font-weight: 800;
+  background: linear-gradient(90deg, #e2f3fd, #ffe2a0);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.jakartaspot16 {
+  position: absolute;
+  top: 56px;
+  left: 67px;
+  width: 330px;
+  height: 61px;
+  font-size: var(--font-size-31xl);
+}
+.about-us10,
+.explore8,
+.home8 {
+  position: absolute;
+  top: 0;
+  left: 75.75%;
+  cursor: pointer;
+}
+.about-us10,
+.home8 {
+  left: 32.43%;
+}
+.home8 {
+  left: 0;
+}
+.explore-parent5 {
+  position: absolute;
+  height: 40.85%;
+  width: 52.96%;
+  top: 28.17%;
+  right: 28.86%;
+  bottom: 30.99%;
+  left: 18.18%;
+}
+.group-child61,
+.material-symbolsbookmark-icon6 {
+  position: absolute;
+  height: 98.59%;
+  width: 40%;
+  top: 1.41%;
+  right: 60%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-child61 {
+  height: 91.55%;
+  width: 43.33%;
+  top: 0;
+  right: 0;
+  bottom: 8.45%;
+  left: 56.67%;
+  border-radius: 50%;
+  object-fit: cover;
+  cursor: pointer;
+}
+.material-symbolsbookmark-parent4 {
+  position: absolute;
+  height: 100%;
+  width: 21.65%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 78.35%;
+}
+.navbar7 {
+  position: absolute;
+  top: 56px;
+  left: 519px;
+  width: 693px;
+  height: 71px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-aliceblue);
+}
+.image-2-icon18 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 250px;
+  height: 251px;
+  object-fit: cover;
+}
+.group-child62 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-navajowhite);
+  width: 35px;
+  height: 35px;
+}
+.love-8647296-5-icon18 {
+  position: absolute;
+  top: 8.4px;
+  left: 7.7px;
+  width: 20.3px;
+  height: 20.3px;
+  object-fit: cover;
+}
+.ellipse-parent26 {
+  position: absolute;
+  top: 10px;
+  left: 205px;
+  width: 35px;
+  height: 35px;
+}
+.k47 {
+  font-size: var(--font-size-mini);
+}
+.k46,
+.taman-literasi-blok3 {
+  position: absolute;
+  top: 280px;
+  left: 10px;
+  display: inline-block;
+  width: 195px;
+  height: 34px;
+}
+.taman-literasi-blok3 {
+  top: 261px;
+  left: 9px;
+  color: var(--color-darkslategray);
+  width: 221px;
+  height: 41px;
+}
+.image-2-parent16 {
+  position: absolute;
+  top: 515px;
+  left: 932px;
+  width: 250px;
+  height: 314px;
+}
+.k48,
+.taman-hutan-kota3 {
+  position: absolute;
+  top: 280px;
+  left: 12px;
+  display: inline-block;
+  width: 195px;
+  height: 34px;
+}
+.taman-hutan-kota3 {
+  top: 261px;
+  font-size: var(--font-size-lgi);
+  color: var(--color-darkslategray);
+  width: 221px;
+  height: 41px;
+}
+.image-2-parent17 {
+  position: absolute;
+  top: 515px;
+  left: 657px;
+  width: 250px;
+  height: 314px;
+}
+.grand-indonesia3,
+.k50 {
+  position: absolute;
+  top: 278px;
+  left: 10px;
+  display: inline-block;
+  width: 195px;
+  height: 34px;
+}
+.grand-indonesia3 {
+  top: 256px;
+  color: var(--color-darkslategray);
+  width: 221px;
+  height: 41px;
+}
+.image-2-parent18 {
+  position: absolute;
+  top: 515px;
+  left: 382px;
+  width: 250px;
+  height: 312px;
+}
+.group-child65 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 125px);
+  border-radius: var(--br-xl);
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+}
+.dunia-fantasi5,
+.k52 {
+  position: absolute;
+  top: 277px;
+  left: 12px;
+  display: inline-block;
+  width: 195px;
+  height: 34px;
+}
+.dunia-fantasi5 {
+  top: 256px;
+  color: var(--color-darkslategray);
+  width: 221px;
+  height: 41px;
+}
+.image-2-parent19,
+.k54 {
+  position: absolute;
+  top: 181px;
+  left: 932px;
+  width: 250px;
+  height: 311px;
+}
+.k54 {
+  top: 280px;
+  left: 9px;
+  display: inline-block;
+  width: 195px;
+  height: 34px;
+}
+.image-2-parent20 {
+  position: absolute;
+  top: 181px;
+  left: 657px;
+  width: 250px;
+  height: 314px;
+  cursor: pointer;
+}
+.ellipse-parent31 {
+  position: absolute;
+  top: 9px;
+  left: 205px;
+  width: 35px;
+  height: 35px;
+}
+.image-2-parent21 {
+  position: absolute;
+  top: 181px;
+  left: 382px;
+  width: 250px;
+  height: 311px;
+}
+.page-31-explore-filter-by {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-darkslategray);
+  height: 832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-lightsalmon);
+  font-family: var(--font-inter);
+}

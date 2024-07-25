@@ -1,0 +1,66 @@
+.about-us13,
+.explore11,
+.home11 {
+  position: absolute;
+  top: 0;
+  left: 75.75%;
+  cursor: pointer;
+}
+.about-us13,
+.home11 {
+  left: 32.43%;
+}
+.home11 {
+  left: 0;
+}
+.explore-parent8 {
+  position: absolute;
+  height: 40.85%;
+  width: 52.96%;
+  top: 28.17%;
+  right: 28.86%;
+  bottom: 30.99%;
+  left: 18.18%;
+}
+.group-child90,
+.material-symbolsbookmark-icon9 {
+  position: absolute;
+  height: 98.59%;
+  width: 40%;
+  top: 1.41%;
+  right: 60%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-child90 {
+  height: 91.55%;
+  width: 43.33%;
+  top: 0;
+  right: 0;
+  bottom: 8.45%;
+  left: 56.67%;
+  border-radius: 50%;
+  object-fit: cover;
+  cursor: pointer;
+}
+.material-symbolsbookmark-parent7 {
+  position: absolute;
+  height: 100%;
+  width: 21.65%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 78.35%;
+}
+.navbar10 {
+  width: 100%;
+  position: relative;
+  height: 71px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-aliceblue);
+  font-family: var(--font-inter);
+}

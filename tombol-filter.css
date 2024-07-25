@@ -1,0 +1,59 @@
+.before-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  border: 0.5px solid var(--color-darkslategray);
+  box-sizing: border-box;
+}
+.category20 {
+  position: absolute;
+  width: 82.13%;
+  top: 17.14%;
+  left: 4.63%;
+  display: inline-block;
+}
+.after-child,
+.before {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 216px;
+  height: 35px;
+}
+.after-child {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-darkslategray);
+}
+.after {
+  position: absolute;
+  top: 55px;
+  left: 20px;
+  width: 216px;
+  height: 35px;
+  color: var(--color-navajowhite);
+}
+.tombol-filter17 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  height: 110px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-inter);
+}

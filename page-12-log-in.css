@@ -1,0 +1,140 @@
+.eclipse,
+.page-12-log-in-child {
+  position: absolute;
+  filter: blur(200px);
+}
+.page-12-log-in-child {
+  top: 358px;
+  left: 470px;
+  background: linear-gradient(180deg, rgba(24, 75, 255, 0), #174aff);
+  width: 345px;
+  height: 426px;
+}
+.eclipse {
+  top: 69px;
+  left: 300px;
+  border-radius: 50%;
+  background: linear-gradient(180deg, rgba(0, 194, 255, 0), #ff2ac3);
+  width: 717px;
+  height: 626px;
+}
+.jakartaspot23 {
+  position: absolute;
+  width: 109.64%;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.05em;
+  display: inline-block;
+  font-weight: 800;
+  background: linear-gradient(90deg, #e2f3fd, #ffe2a0);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.jakartaspot22 {
+  position: absolute;
+  top: 56px;
+  left: 67px;
+  width: 330px;
+  height: 61px;
+}
+.background-19 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 237px);
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  width: 474px;
+  height: 403px;
+}
+.welcome-back {
+  position: absolute;
+  top: 60px;
+  left: 67px;
+  font-size: var(--font-size-31xl);
+  font-family: var(--font-changa-one);
+  color: var(--color-lightsalmon);
+}
+.dont-have-any-container,
+.forgot-your-password-container {
+  position: absolute;
+  top: 259px;
+  left: 262px;
+  font-size: var(--font-size-mini);
+}
+.dont-have-any-container {
+  top: 375px;
+  left: 47px;
+}
+.kotak-password-icon,
+.kotak-user-name {
+  position: absolute;
+  top: 142px;
+  left: 47px;
+  border-radius: var(--br-xl);
+  width: 381px;
+  height: 42px;
+  mix-blend-mode: normal;
+}
+.kotak-password-icon {
+  top: 207px;
+}
+.password,
+.username {
+  position: absolute;
+  top: 216px;
+  left: 62px;
+  background: linear-gradient(#304f6c, #304f6c),
+    linear-gradient(#cfcccc, #cfcccc), linear-gradient(#cfcccc, #cfcccc),
+    linear-gradient(#cfcccc, #cfcccc), #cfcccc;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.username {
+  top: 151px;
+}
+.kotak-sign-in2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.log-in {
+  position: absolute;
+  top: 12.43%;
+  left: 24.79%;
+}
+.tombol-log-in {
+  position: absolute;
+  top: 305px;
+  left: calc(50% - 60px);
+  width: 117px;
+  height: 42px;
+  color: var(--color-navajowhite-100);
+}
+.background-1-parent {
+  position: absolute;
+  top: 215px;
+  left: calc(50% - 237px);
+  width: 474px;
+  height: 403px;
+  font-size: var(--font-size-xl);
+}
+.page-12-log-in {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-darkslategray);
+  height: 832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-tomato);
+  font-family: var(--font-inter);
+}
